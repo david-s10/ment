@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+    color: wheat;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    max-width: 1440px;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 50px;
+}
+
+.app__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.wrapper select {
+    text-align: center;
+    /* width: 10%; */
+    height: 40px;
+    /* margin: 0 auto; */
+}
