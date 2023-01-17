@@ -1,0 +1,13 @@
+[{  "1":{"question": "What is your marital status?", "answer1": {"label": "single", "nextQuestionId": "2"}, "answer2": {"label": "married", "nextQuestionId": "3"}},
+    "2":{"question": "Are you planning on getting married next year?", "answer1": {"label": "yes", "nextQuestionId": "0"}, "answer2": {"label": "no", "nextQuestionId": "0"}},
+    "3":{"question": "How long have you been married?", "answer1": {"label": "Less than a year", "nextQuestionId": "0"}, "answer2": {"label": "More than a year", "nextQuestionId": "4"}},
+    "4":{"question": "Have you celebrated your one year anniversary?", "answer1": {"label": "yes", "nextQuestionId": "0"}, "answer2": {"label": "no", "nextQuestionId": "0"}}
+
+
+        }]
+
+
+
+
+        
+

@@ -1,0 +1,29 @@
+html,body {
+    height: 100%;
+    
+}
+body{
+    margin: 0;
+}
+.wrapper {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.q1__select {
+    width: 100px;
+    /* margin: 0 auto; */
+    height: 20px;
+}
+.q1__select-2 {
+    width: 100px;
+    height: 20px;
+}
+.text {
+    text-align: center;
+    margin: 0 10px;
+}
